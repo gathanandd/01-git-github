@@ -50,7 +50,20 @@ C:\Document and Settings\NamaUser dengan nama file .gitconfig. Secara minimal, a
 <br><br>
 
 <h2> MENGELOLA REPO SENDIRI </h2>
-
-  
-  
-  
+  <ul>
+    <li> Membuat File Repository (Proyek Baru) </li>
+      <ol>
+        1. Pergi ke Halaman Github, lalu Klik "Start a Project" untuk memulai membuat Proyek Baru.<br>
+           <img src="https://user-images.githubusercontent.com/91532628/135106587-47a55557-71bd-44f8-93e9-ad5695386396.png" width="450px"><br>
+        2. Setelah itu, akan muncul tampilan dimana anda akan membuat Proyek baru, Lalu Klik "Create Repo".<br>
+           <img src="https://user-images.githubusercontent.com/91532628/135107365-135ab664-6db2-4fe3-b063-47b3fa6a86e0.png" width="450px"><br>
+        3. Lalu, untuk membuat File maka klik "Creating a new file" berwarna biru.<br>
+           <img src="https://user-images.githubusercontent.com/91532628/135108003-f7c28169-f881-4f10-8a20-4b3565ea9a88.png" width="450px"> <br>
+        4. Setelah itu anda diberikan keleluasaan untuk membuat proyek yang diinginkan, jika sudah selesai maka klik "Commit new file".<br>
+           <img src="https://user-images.githubusercontent.com/91532628/135109111-ce85115d-8615-4c53-9380-645d99cb11c6.png" width="450px"><br>
+        5. Anda telah membuat satu Commit<br>
+      </ol>
+    </li>
+  </ul>
+Kita dapat mengubah, membuat cabang (branch), menyatukan cabang (merge), dan banyak hal lainnya. Github sendiri memiliki kemampuan untuk
+melakukan itu, dan kita dapat melihat siapa, kapan, dan apa saja yang diupdate dalam Repository.
